@@ -15,5 +15,5 @@
   <kobuki/>
   <stack_hexagons parent="base_link"/>
   <pantilt parent="base_link"/>
-  <sensor_astra parent="pantilt_camera_link"/>
+  <sensor_astra parent="tilt_link"/>
 </robot>
